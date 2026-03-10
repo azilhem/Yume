@@ -1,0 +1,17 @@
+# Fichiers temporaires LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.gz
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.lof
+*.lot
+*.bbl
+*.blg
+
+# Dossiers compilés
+build/
+output/
